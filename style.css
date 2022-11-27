@@ -3,10 +3,10 @@ body {
   padding-top: 50px;
   font-family: Arial, sans-serif;
   font-size: 36px;
-  background-color: #f2f2f2;
+  background-color: #000000;
 }
 
 a {
   text-decoration: none;
-  color: orange;
+  color: white;
 }
